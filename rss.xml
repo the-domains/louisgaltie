@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LouisGaltie]]></title>
         <description><![CDATA[LouisGaltie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/louisgaltie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 08:36:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 08:53:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/louisgaltie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/73119631-bb2d-4e18-ad7f-3db17ca56016.jpg">]]></description>
+            <link>https://thegrid.ai/louisgaltie/47356bf3-715d-4105-b643-539c87f0bee0/index.html</link>
+            <guid isPermaLink="false">47356bf3-715d-4105-b643-539c87f0bee0</guid>
+            <pubDate>Wed, 27 Jan 2016 08:53:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9efa4ec8-52cd-41cb-b878-c3360df3c93c.jpg">]]></description>
-            <link>undefinedb97b6f84-0871-458a-91b9-7a32a3788c85/index.html</link>
+            <link>https://thegrid.ai/louisgaltie/b97b6f84-0871-458a-91b9-7a32a3788c85/index.html</link>
             <guid isPermaLink="false">b97b6f84-0871-458a-91b9-7a32a3788c85</guid>
             <pubDate>Wed, 27 Jan 2016 08:36:31 GMT</pubDate>
         </item>
